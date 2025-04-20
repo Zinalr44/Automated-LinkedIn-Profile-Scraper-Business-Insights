@@ -1,0 +1,226 @@
+2025-02-27 15:52:33,755 - INFO - \U0001f680 Running Full Scraper Pipeline...
+2025-02-27 15:52:33,755 - INFO - \U0001f50d Fetching LinkedIn profiles...
+2025-02-27 15:52:35,102 - INFO - response: https://html.duckduckgo.com/html 202
+2025-02-27 15:52:35,102 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-27 15:52:36,364 - INFO - response: https://lite.duckduckgo.com/lite/ 202
+2025-02-27 15:52:36,364 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-27 15:54:19,262 - INFO - \U0001f680 Running Full Scraper Pipeline...
+2025-02-27 15:54:19,262 - INFO - \U0001f50d Fetching LinkedIn profiles...
+2025-02-27 15:54:19,786 - INFO - response: https://lite.duckduckgo.com/lite/ 202
+2025-02-27 15:54:19,786 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-27 15:54:21,035 - INFO - response: https://html.duckduckgo.com/html 202
+2025-02-27 15:54:21,035 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-27 15:54:21,035 - WARNING - \u26a0\ufe0f DuckDuckGo rate limit hit. Retrying... (1/3)
+2025-02-27 15:54:31,364 - INFO - response: https://html.duckduckgo.com/html 202
+2025-02-27 15:54:31,364 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-27 15:54:32,379 - INFO - response: https://lite.duckduckgo.com/lite/ 202
+2025-02-27 15:54:32,379 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-27 15:54:32,379 - WARNING - \u26a0\ufe0f DuckDuckGo rate limit hit. Retrying... (2/3)
+2025-02-27 15:54:42,801 - INFO - response: https://lite.duckduckgo.com/lite/ 202
+2025-02-27 15:54:42,801 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-27 15:54:43,781 - INFO - response: https://html.duckduckgo.com/html 202
+2025-02-27 15:54:43,782 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-27 15:54:43,782 - WARNING - \u26a0\ufe0f DuckDuckGo rate limit hit. Retrying... (3/3)
+2025-02-27 16:00:29,346 - INFO - \U0001f680 Running Full Scraper Pipeline...
+2025-02-27 16:00:29,346 - INFO - \U0001f50d Fetching LinkedIn profiles...
+2025-02-27 16:00:30,412 - INFO - response: https://lite.duckduckgo.com/lite/ 202
+2025-02-27 16:00:30,412 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-27 16:00:31,735 - INFO - response: https://html.duckduckgo.com/html 202
+2025-02-27 16:00:31,735 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-27 16:00:31,735 - WARNING - \u26a0\ufe0f DuckDuckGo rate limit hit. Retrying... (1/3)
+2025-02-27 16:00:42,072 - INFO - response: https://lite.duckduckgo.com/lite/ 202
+2025-02-27 16:00:42,072 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-27 16:00:43,104 - INFO - response: https://html.duckduckgo.com/html 202
+2025-02-27 16:00:43,105 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-27 16:00:43,105 - WARNING - \u26a0\ufe0f DuckDuckGo rate limit hit. Retrying... (2/3)
+2025-02-27 16:00:53,418 - INFO - response: https://lite.duckduckgo.com/lite/ 202
+2025-02-27 16:00:53,418 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-27 16:00:54,644 - INFO - response: https://html.duckduckgo.com/html 202
+2025-02-27 16:00:54,644 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-27 16:00:54,644 - WARNING - \u26a0\ufe0f DuckDuckGo rate limit hit. Retrying... (3/3)
+2025-02-27 16:03:29,350 - INFO - \U0001f680 Running Full Scraper Pipeline...
+2025-02-27 16:03:29,350 - INFO - \U0001f50d Fetching LinkedIn profiles...
+2025-02-27 16:04:59,718 - INFO - response: https://lite.duckduckgo.com/lite/ 202
+2025-02-27 16:04:59,719 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-27 16:05:00,774 - INFO - response: https://html.duckduckgo.com/html 202
+2025-02-27 16:05:00,774 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-27 16:05:00,774 - WARNING - \u26a0\ufe0f DuckDuckGo rate limit hit. Retrying in 60 seconds... (1/3)
+2025-02-27 16:08:01,121 - INFO - response: https://html.duckduckgo.com/html 202
+2025-02-27 16:08:01,122 - INFO - Error to search using html backend: https://html.duckduckgo.com/html 202 Ratelimit
+2025-02-27 16:08:02,250 - INFO - response: https://lite.duckduckgo.com/lite/ 202
+2025-02-27 16:08:02,250 - INFO - Error to search using lite backend: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+2025-02-27 16:08:02,250 - WARNING - \u26a0\ufe0f DuckDuckGo rate limit hit. Retrying in 90 seconds... (2/3)
+2025-02-27 16:16:42,512 - INFO - \U0001f680 Running Full Scraper Pipeline...
+2025-02-27 16:16:48,120 - INFO - \U0001f680 Running Full Scraper Pipeline...
+2025-02-27 16:17:05,550 - INFO - \U0001f680 Running Full Scraper Pipeline...
+2025-02-27 16:17:06,432 - INFO - \U0001f680 Running Full Scraper Pipeline...
+2025-02-27 16:17:44,693 - INFO - \U0001f680 Running Full Scraper Pipeline...
+2025-02-27 16:17:44,693 - INFO - \U0001f50d Fetching LinkedIn profiles...
+2025-02-27 16:17:46,213 - INFO - response: https://html.duckduckgo.com/html 200
+2025-02-27 16:17:46,247 - INFO - \u2705 Profiles fetched and saved successfully!
+2025-02-27 16:17:46,247 - INFO - \U0001f50d Starting LinkedIn profile scraping...
+2025-02-27 16:17:46,247 - INFO - \U0001f50d Loading saved profile URLs...
+2025-02-27 16:17:46,260 - INFO - \u2705 Loaded 5 profiles!
+2025-02-27 16:17:50,327 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:17:51,542 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:17:54,498 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:18:01,161 - INFO - \U0001f50d Scraping profile: https://in.linkedin.com/in/anil-jain-412b36132
+2025-02-27 16:18:01,361 - ERROR - \u274c Error scraping https://in.linkedin.com/in/anil-jain-412b36132: name 'analyze_business_sector' is not defined
+2025-02-27 16:18:03,050 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:18:04,102 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:18:06,795 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:18:13,640 - INFO - \U0001f50d Scraping profile: https://in.linkedin.com/in/raj-kumar-tyagi-47483b21
+2025-02-27 16:18:13,751 - ERROR - \u274c Error scraping https://in.linkedin.com/in/raj-kumar-tyagi-47483b21: name 'analyze_business_sector' is not defined
+2025-02-27 16:18:17,494 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:18:18,578 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:18:21,218 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:18:28,179 - INFO - \U0001f50d Scraping profile: https://in.linkedin.com/in/anil-jain-44b715169
+2025-02-27 16:18:28,314 - ERROR - \u274c Error scraping https://in.linkedin.com/in/anil-jain-44b715169: name 'analyze_business_sector' is not defined
+2025-02-27 16:18:30,653 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:18:31,792 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:18:34,277 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:18:42,728 - INFO - \U0001f50d Scraping profile: https://in.linkedin.com/in/ajay-bisht-99658318
+2025-02-27 16:18:42,839 - ERROR - \u274c Error scraping https://in.linkedin.com/in/ajay-bisht-99658318: name 'analyze_business_sector' is not defined
+2025-02-27 16:18:46,198 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:18:47,355 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:18:49,743 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:18:57,525 - INFO - \U0001f50d Scraping profile: https://in.linkedin.com/in/anil-kanth-184865333
+2025-02-27 16:18:57,683 - ERROR - \u274c Error scraping https://in.linkedin.com/in/anil-kanth-184865333: name 'analyze_business_sector' is not defined
+2025-02-27 16:18:57,844 - INFO - \u2705 Scraping Complete! Check linkedin_profiles_scraped.json
+2025-02-27 16:18:57,847 - INFO - \u2705 Process Complete! All data saved in 'data' folder.
+2025-02-27 16:35:20,075 - INFO - \U0001f680 Running Full Scraper Pipeline...
+2025-02-27 16:35:20,075 - INFO - \U0001f50d Fetching LinkedIn profiles...
+2025-02-27 16:35:21,596 - INFO - response: https://lite.duckduckgo.com/lite/ 200
+2025-02-27 16:35:21,596 - INFO - \u2705 Profiles fetched and saved successfully!
+2025-02-27 16:35:21,596 - INFO - \U0001f50d Starting LinkedIn profile scraping...
+2025-02-27 16:35:21,600 - INFO - \U0001f50d Loading saved profile URLs...
+2025-02-27 16:35:21,609 - INFO - \u2705 Loaded 3 profiles!
+2025-02-27 16:35:23,319 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:35:24,481 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:35:27,206 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:35:34,144 - INFO - \U0001f50d Scraping profile: https://www.linkedin.com/in/marie-cruz-3120979
+2025-02-27 16:35:34,323 - ERROR - \u274c Error scraping https://www.linkedin.com/in/marie-cruz-3120979: name 'analyze_business_sector' is not defined
+2025-02-27 16:35:36,385 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:35:37,651 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:35:43,551 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:35:50,755 - INFO - \U0001f50d Scraping profile: https://www.linkedin.com/in/michael-herman-lcb-ccs-38a10946
+2025-02-27 16:35:50,851 - ERROR - \u274c Error scraping https://www.linkedin.com/in/michael-herman-lcb-ccs-38a10946: name 'analyze_business_sector' is not defined
+2025-02-27 16:35:52,896 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:35:53,960 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:35:56,557 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:36:02,359 - INFO - \U0001f50d Scraping profile: https://www.linkedin.com/in/alex-scaro-233771108
+2025-02-27 16:36:02,436 - ERROR - \u274c Error scraping https://www.linkedin.com/in/alex-scaro-233771108: name 'analyze_business_sector' is not defined
+2025-02-27 16:36:02,596 - INFO - \u2705 Scraping Complete! Check linkedin_profiles_scraped.json
+2025-02-27 16:36:02,596 - INFO - \u2705 Process Complete! All data saved in 'data' folder.
+2025-02-27 16:38:58,581 - INFO - \U0001f680 Running Full Scraper Pipeline...
+2025-02-27 16:38:58,581 - INFO - \U0001f50d Fetching LinkedIn profiles...
+2025-02-27 16:39:00,229 - INFO - response: https://lite.duckduckgo.com/lite/ 200
+2025-02-27 16:39:00,235 - INFO - \u2705 Profiles fetched and saved successfully!
+2025-02-27 16:39:00,235 - INFO - \U0001f50d Starting LinkedIn profile scraping...
+2025-02-27 16:39:00,235 - INFO - \U0001f50d Loading saved profile URLs...
+2025-02-27 16:39:00,250 - INFO - \u2705 Loaded 4 profiles!
+2025-02-27 16:39:02,309 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:39:03,489 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:39:06,189 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:39:11,894 - INFO - \U0001f50d Scraping profile: https://www.linkedin.com/in/marie-cruz-3120979
+2025-02-27 16:39:12,001 - ERROR - \u274c Error scraping https://www.linkedin.com/in/marie-cruz-3120979: name 'analyze_business_sector' is not defined
+2025-02-27 16:39:14,446 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:39:15,589 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:39:18,067 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:39:23,901 - INFO - \U0001f50d Scraping profile: https://www.linkedin.com/in/michael-herman-lcb-ccs-38a10946
+2025-02-27 16:39:24,004 - ERROR - \u274c Error scraping https://www.linkedin.com/in/michael-herman-lcb-ccs-38a10946: name 'analyze_business_sector' is not defined
+2025-02-27 16:39:25,973 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:39:27,105 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:39:29,579 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:39:35,731 - INFO - \U0001f50d Scraping profile: https://www.linkedin.com/in/alex-scaro-233771108
+2025-02-27 16:39:35,845 - ERROR - \u274c Error scraping https://www.linkedin.com/in/alex-scaro-233771108: name 'analyze_business_sector' is not defined
+2025-02-27 16:39:43,007 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:39:44,107 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:39:54,897 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:40:06,558 - INFO - \U0001f50d Scraping profile: https://www.linkedin.com/in/evantrivett
+2025-02-27 16:40:06,620 - ERROR - \u274c Error scraping https://www.linkedin.com/in/evantrivett: name 'analyze_business_sector' is not defined
+2025-02-27 16:40:06,744 - INFO - \u2705 Scraping Complete! Check linkedin_profiles_scraped.json
+2025-02-27 16:40:06,755 - INFO - \u2705 Process Complete! All data saved in 'data' folder.
+2025-02-27 16:43:20,016 - INFO - \U0001f680 Running Full Scraper Pipeline...
+2025-02-27 16:43:20,016 - INFO - \U0001f50d Fetching LinkedIn profiles...
+2025-02-27 16:43:21,397 - INFO - response: https://lite.duckduckgo.com/lite/ 200
+2025-02-27 16:43:21,397 - INFO - \u2705 Profiles fetched and saved successfully!
+2025-02-27 16:43:21,397 - INFO - \U0001f50d Starting LinkedIn profile scraping...
+2025-02-27 16:43:21,397 - INFO - \U0001f50d Loading saved profile URLs...
+2025-02-27 16:43:21,405 - INFO - \u2705 Loaded 3 profiles!
+2025-02-27 16:43:23,543 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:43:24,827 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:43:27,099 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:43:33,958 - INFO - \U0001f50d Scraping profile: https://www.linkedin.com/in/marie-cruz-3120979
+2025-02-27 16:43:34,041 - ERROR - \u274c Error scraping https://www.linkedin.com/in/marie-cruz-3120979: name 'analyze_business_sector' is not defined
+2025-02-27 16:43:36,087 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:43:37,266 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:43:39,429 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:43:46,383 - INFO - \U0001f50d Scraping profile: https://www.linkedin.com/in/michael-herman-lcb-ccs-38a10946
+2025-02-27 16:43:46,475 - ERROR - \u274c Error scraping https://www.linkedin.com/in/michael-herman-lcb-ccs-38a10946: name 'analyze_business_sector' is not defined
+2025-02-27 16:43:48,231 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:43:49,295 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:43:51,449 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:43:57,185 - INFO - \U0001f50d Scraping profile: https://www.linkedin.com/in/alex-scaro-233771108
+2025-02-27 16:43:57,262 - ERROR - \u274c Error scraping https://www.linkedin.com/in/alex-scaro-233771108: name 'analyze_business_sector' is not defined
+2025-02-27 16:43:57,433 - INFO - \u2705 Scraping Complete! Check linkedin_profiles_scraped.json
+2025-02-27 16:43:57,436 - INFO - \u2705 Process Complete! All data saved in 'data' folder.
+2025-02-27 16:46:07,797 - INFO - \U0001f680 Running Full Scraper Pipeline...
+2025-02-27 16:52:31,672 - INFO - \U0001f680 Running Full Scraper Pipeline...
+2025-02-27 16:52:31,672 - INFO - \U0001f50d Fetching LinkedIn profiles for Import Export Manager in United States OR European Union...
+2025-02-27 16:52:34,206 - INFO - \u2705 10 profiles fetched successfully using SerpAPI!
+2025-02-27 16:52:34,206 - INFO - \U0001f50d Starting LinkedIn profile scraping...
+2025-02-27 16:52:34,206 - INFO - \U0001f50d Loading saved profile URLs...
+2025-02-27 16:52:34,222 - INFO - \u2705 Loaded 10 profiles!
+2025-02-27 16:52:37,809 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:52:38,813 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:52:42,564 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:52:48,389 - INFO - \U0001f50d Scraping profile: https://www.linkedin.com/in/chris-boffa-86a2ba80
+2025-02-27 16:52:48,543 - ERROR - \u274c Error scraping https://www.linkedin.com/in/chris-boffa-86a2ba80: name 'analyze_business_sector' is not defined
+2025-02-27 16:52:52,970 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:52:54,020 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:52:57,635 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:53:03,800 - INFO - \U0001f50d Scraping profile: https://www.linkedin.com/in/jordanmagnuson
+2025-02-27 16:53:03,979 - ERROR - \u274c Error scraping https://www.linkedin.com/in/jordanmagnuson: name 'analyze_business_sector' is not defined
+2025-02-27 16:53:17,387 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:53:18,406 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:53:22,380 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:53:28,250 - INFO - \U0001f50d Scraping profile: https://www.linkedin.com/in/vanessa-miller-48738754
+2025-02-27 16:53:28,395 - ERROR - \u274c Error scraping https://www.linkedin.com/in/vanessa-miller-48738754: name 'analyze_business_sector' is not defined
+2025-02-27 16:53:31,139 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:53:32,179 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:53:35,996 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:53:41,865 - INFO - \U0001f50d Scraping profile: https://www.linkedin.com/in/hector-perez-18149b112
+2025-02-27 16:53:42,011 - ERROR - \u274c Error scraping https://www.linkedin.com/in/hector-perez-18149b112: name 'analyze_business_sector' is not defined
+2025-02-27 16:53:44,796 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:53:45,828 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:53:49,388 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:53:56,439 - INFO - \U0001f50d Scraping profile: https://www.linkedin.com/in/kasraferasat
+2025-02-27 16:53:56,617 - ERROR - \u274c Error scraping https://www.linkedin.com/in/kasraferasat: name 'analyze_business_sector' is not defined
+2025-02-27 16:53:59,029 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:54:00,335 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:54:04,525 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:54:11,789 - INFO - \U0001f50d Scraping profile: https://www.linkedin.com/in/matt-beck-2802081a
+2025-02-27 16:54:12,042 - ERROR - \u274c Error scraping https://www.linkedin.com/in/matt-beck-2802081a: name 'analyze_business_sector' is not defined
+2025-02-27 16:54:15,223 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:54:16,539 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:54:20,221 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:54:26,046 - INFO - \U0001f50d Scraping profile: https://www.linkedin.com/in/claudiawillison
+2025-02-27 16:54:26,259 - ERROR - \u274c Error scraping https://www.linkedin.com/in/claudiawillison: name 'analyze_business_sector' is not defined
+2025-02-27 16:54:32,614 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:54:33,804 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:54:38,286 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:54:44,633 - INFO - \U0001f50d Scraping profile: https://www.linkedin.com/in/merinda-baker-9163357b
+2025-02-27 16:54:44,867 - ERROR - \u274c Error scraping https://www.linkedin.com/in/merinda-baker-9163357b: name 'analyze_business_sector' is not defined
+2025-02-27 16:54:47,644 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:54:48,976 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:54:53,264 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:54:59,146 - INFO - \U0001f50d Scraping profile: https://www.linkedin.com/in/brittany-ingram-89337682
+2025-02-27 16:54:59,302 - ERROR - \u274c Error scraping https://www.linkedin.com/in/brittany-ingram-89337682: name 'analyze_business_sector' is not defined
+2025-02-27 16:55:02,308 - INFO - patching driver executable C:\Users\Dell.com\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-27 16:55:03,367 - INFO - \U0001f50d Loading LinkedIn cookies...
+2025-02-27 16:55:07,207 - INFO - \u2705 Cookies loaded successfully!
+2025-02-27 16:55:13,102 - INFO - \U0001f50d Scraping profile: https://www.linkedin.com/in/luz-suarez-4a871446
+2025-02-27 16:55:13,263 - ERROR - \u274c Error scraping https://www.linkedin.com/in/luz-suarez-4a871446: name 'analyze_business_sector' is not defined
+2025-02-27 16:55:13,454 - INFO - \u2705 Scraping Complete! Check linkedin_profiles_scraped.json
+2025-02-27 16:55:13,461 - INFO - \u2705 Process Complete! All data saved in 'data' folder.
